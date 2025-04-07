@@ -7,25 +7,24 @@ body {
 }
 
 header {
-    background: #0047AB; /* Cobalt Blue */
+    background: #0047ab; /* Cobalt Blue */
     color: #ffffff;
-    padding: 1rem 0;
     text-align: center;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
 }
 
 #logo {
-    max-width: 100px; /* Smaller max width for mobile */
+    max-width: 40px; /* Smaller max width for mobile */
     height: auto;
     margin-bottom: 0.5rem;
 }
 
 header h1 {
-    margin: 0;
-    font-size: 1.8rem;
+    margin: 15px;
+    font-size: 1.5rem;
 }
 
 section {
@@ -53,7 +52,7 @@ footer {
     text-align: center;
     margin-top: 20px;
     padding: 10px;
-    background: #0047AB; /* Cobalt Blue */
+    background: #0047ab; /* Cobalt Blue */
     color: #ffffff;
 }
 
@@ -68,7 +67,7 @@ footer {
     #logo {
         margin-bottom: 0;
         margin-right: 1.5rem;
-        max-width: 120px;
+        max-width: 80px;
     }
 
     header h1 {
