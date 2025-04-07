@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: #35424a;
+    background: #0047AB; /* Cobalt Blue */
     color: #ffffff;
     padding: 1rem 0;
     text-align: center;
@@ -18,7 +18,7 @@ header {
 }
 
 #logo {
-    max-width: 150px;
+    max-width: 100px; /* Smaller max width for mobile */
     height: auto;
     margin-bottom: 0.5rem;
 }
@@ -46,14 +46,14 @@ section {
 }
 
 h2, h3 {
-    color: #35424a;
+    color: #0047AB; /* Changed to Cobalt Blue */
 }
 
 footer {
     text-align: center;
     margin-top: 20px;
     padding: 10px;
-    background: #35424a;
+    background: #0047AB; /* Cobalt Blue */
     color: #ffffff;
 }
 
